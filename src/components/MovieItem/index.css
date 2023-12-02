@@ -1,0 +1,20 @@
+.card {
+  margin: 15px;
+  padding: 15px;
+  width: 250px;
+  background-color: #b0d6bc;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.poster {
+  height: 200px;
+  border-radius: 10px;
+}
+.details-button {
+  border: 0px;
+  background-color: #24ed45;
+  padding: 5px;
+  border-radius: 5px;
+}

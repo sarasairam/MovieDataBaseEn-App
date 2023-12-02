@@ -1,0 +1,46 @@
+.singlePage {
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 85vh;
+  overflow-y: auto;
+}
+.movie-poster {
+  height: 150px;
+}
+.movie-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #9da39e;
+  padding: 25px;
+  border-radius: 15px;
+}
+.row-single {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}
+.row-singles {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 30%;
+}
+.cast-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.details {
+  background-color: aquamarine;
+  padding: 25px;
+  border-radius: 15px;
+  margin: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

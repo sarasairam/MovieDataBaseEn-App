@@ -1,0 +1,15 @@
+.profile {
+  height: 150px;
+  border-radius: 10px;
+}
+.cast-card {
+  width: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  padding: 10px;
+  background-color: azure;
+  border-radius: 10px;
+}

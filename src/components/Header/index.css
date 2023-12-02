@@ -1,0 +1,33 @@
+.nav-header {
+  background-color: #5d6e63;
+  height: 15vh;
+  padding: 15px;
+}
+.blog-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+.nav-link {
+  margin-left: 20px;
+  color: #000000;
+  text-decoration: none;
+}
+.search-bar {
+  height: 30px;
+  width: 250px;
+  margin-top: 15px;
+  margin-right: 20px;
+}
+.search-button {
+  background-color: #2783d9;
+  color: #ffffff;
+  border-radius: 10px;
+  border: 0px;
+  padding: 6px;
+}
